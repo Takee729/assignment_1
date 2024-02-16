@@ -1,0 +1,173 @@
+* {
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+header {
+    background-image: url('../new-year-new-me-main/new-year-new-me-main/images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+/* .top{
+    text-align:right;
+    padding: 300px 100px 900px 200px;
+    margin-bottom: 100px;
+    
+} */
+
+.padding {
+    text-align: right;
+    padding: 80px 90px 300px 60px;
+    margin-bottom: 100px;
+}
+
+.heading-1 {
+    margin-bottom: 20px;
+    font-size: 100px;
+    color: white;
+}
+
+.pr-1 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: white;
+}
+
+.btn {
+    padding: 13px;
+    color: #00BFFF;
+    border-radius: 7px;
+    border: 0px;
+    font-size: 30px;
+}
+
+
+
+/* 2 */
+
+.flex-1,
+.flex-3 {
+
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 50px 400px;
+}
+
+.padding2 {
+    margin-top: 220px;
+}
+
+.heading-2 {
+    margin-bottom: 20px;
+    font-size: 45px;
+}
+
+.pr-2 {
+    margin-bottom: 20px;
+}
+
+.flex-2 {
+    display: flex;
+    gap: 13px;
+    margin-bottom: 10px;
+}
+
+
+/* 3 */
+
+.center {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.heading-3 {
+    font-size: 50px;
+
+}
+
+
+.iconss,
+.heading-4 {
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+.pr-3 {
+    font-size: 20px;
+}
+
+
+.fourthpart {
+    background-image: url('../new-year-new-me-main/new-year-new-me-main/images/watch.png');
+    
+    background-repeat: no-repeat;
+    background-position: center;
+     padding: 50px 700px ;  
+     margin-bottom: 100px;
+
+}
+
+.heading-5{
+    color: aliceblue;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+
+/* 4 */
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 500px;
+
+
+}
+.heading-6{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+.pr-4{
+    color: white;
+    margin-bottom: 25px;
+}
+
+
+
+.heading-7{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.btn-2{
+    
+     padding: 20px 30px;
+     color: white;
+     background-color: #0066b2;
+     border-radius: 5px;
+     border:0px;
+     margin-top: 20px;
+
+}
+
+input{
+    padding: 15px 25px;
+     color: white;
+     background-color: black;
+     border-radius: 5px;
+     border-color: white;
+}
+
+.flex-4{
+    display: flex;
+    gap: 20px;
+}
+
